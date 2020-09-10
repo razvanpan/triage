@@ -1,0 +1,10 @@
+.ActionHeaderContainer_flex-header__twxGS {
+  background-color: var(
+    --terra-action-header-background-color,
+    #e9f5f5
+  ) !important;
+  border-bottom: var(
+    --terra-action-header-border-bottom,
+    1px solid #add8e6
+  ) !important;
+}

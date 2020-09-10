@@ -1,0 +1,10 @@
+.BlockActionFooter_block-action-footer__2kIw6 {
+  background-color: var(
+    --terra-action-footer-background-color,
+    #e9f5f5
+  ) !important;
+  border-top: var(
+    --terra-action-footer-border-top,
+    1px solid #add8e6
+  ) !important;
+}
