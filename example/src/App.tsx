@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'triage'
 import 'triage/dist/index.css'
+import { TriageCard } from 'triage'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <TriageCard />
 }
 
 export default App
